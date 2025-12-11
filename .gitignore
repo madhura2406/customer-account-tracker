@@ -1,0 +1,17 @@
+# Maven / build
+target/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# H2 DB lock files (if any)
+*.db
